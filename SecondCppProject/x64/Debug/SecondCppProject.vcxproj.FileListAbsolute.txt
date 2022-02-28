@@ -1,0 +1,4 @@
+C:\Users\londo\OneDrive\Documents\TEST101\SecondCppProject\SecondCppProject\x64\Debug\SecondCppProject.vcxproj.AssemblyReference.cache
+C:\Users\londo\OneDrive\Documents\TEST101\SecondCppProject\SecondCppProject\x64\Debug\SecondCppProject.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\londo\OneDrive\Documents\TEST101\SecondCppProject\SecondCppProject\x64\Debug\SecondCppProject.MainForm.resources
+C:\Users\londo\OneDrive\Documents\TEST101\SecondCppProject\SecondCppProject\x64\Debug\SecondCppProject.vcxproj.GenerateResource.cache
